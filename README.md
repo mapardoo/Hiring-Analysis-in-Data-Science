@@ -1,2 +1,3 @@
-# Hiring-Analysis-in-Data-Science
-Machine Learning project focused on analyze jobs search and hiring process in the field of data science
+# Some projects and activities developed while learning about Machine Learning
+- Neural networks
+- Keras - TensorFlow
