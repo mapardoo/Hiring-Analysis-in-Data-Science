@@ -4,3 +4,4 @@
 - Softmax - Keras
 - Images_Classification -- Keras, TensorFlow
 - Convolutional Neural Network - Estimator - MNIST Dataset
+- CNN - Keras API
