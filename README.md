@@ -6,3 +6,4 @@
 - Convolutional Neural Network - Estimator - MNIST Dataset
 - CNN - Keras API
 - PCA vs. Autoencoder - Iris dataset
+- Seaborn
