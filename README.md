@@ -7,3 +7,4 @@
 - CNN - Keras API
 - PCA vs. Autoencoder - Iris dataset
 - Natural Language Processing (NLP) - Regular expressions - Crime and Punishment .txt
+- Keras - Recurrent Neural Network for a time series - data_boston.csv
